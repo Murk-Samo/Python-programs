@@ -1,4 +1,4 @@
-# Python-Practice
+# Python-Programs
 Hello! I'm Murk Samo.
 
 I am a BS Artificial Intelligence student and currently learning Python.
